@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.Wait;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class WebdriverUtils {
+public class WebdriverUtils2 {
 
 	
 	
